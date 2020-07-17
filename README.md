@@ -1,7 +1,7 @@
-# Formaulario Animado
+# Formaulario Animado :computer: :desktop_computer:
 
 Um formulario feitopara estudos de animaçoes css, e ReactJs. O 
-projeto conta apenas com o front-end da aplicação.
+projeto conta apenas com o front-end da aplicação com layout fixo.
 
 ## layout
 
@@ -9,13 +9,13 @@ projeto conta apenas com o front-end da aplicação.
 
 ## Tecnologias
 
-- typeScript
-- ReactJs (front-end)
-- Css (estilos)
+- typeScript :heavy_check_mark:
+- ReactJs (front-end) :heavy_check_mark:
+- Css (estilos) :heavy_check_mark:
 
-## Como testar
+## Como testar :thinking: :thinking:
 
 Ao clonar o repositorio va para a pasta `` Formulario-Login-React `` e execute o camando `` npm install ``
 ao finalizar execute `` npm start ``, e abra em seu navegador o `` http://localhost:3000 ``.
 
-like 
+like :grin: :heart:
