@@ -1,0 +1,23 @@
+:root {
+  --cor-principal: rgb(58, 179, 151);
+  --background-color: rgb(227, 230, 229);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--background-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--cor-principal);
+  font-family: Arial;
+}
+
+p {
+  font-family: Arial;
+}
